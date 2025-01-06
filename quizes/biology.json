@@ -1,0 +1,47 @@
+[
+    {
+        "Question": "What is the powerhouse of the cell?",
+        "options": [
+            { "text": "Nucleus", "correct": "false" },
+            { "text": "Ribosome", "correct": "false" },
+            { "text": "Mitochondria", "correct": "true" },
+            { "text": "Golgi apparatus", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Which process do plants use to convert sunlight into energy?",
+        "options": [
+            { "text": "Respiration", "correct": "false" },
+            { "text": "Photosynthesis", "correct": "true" },
+            { "text": "Fermentation", "correct": "false" },
+            { "text": "Transpiration", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Which blood cells are responsible for fighting infections?",
+        "options": [
+            { "text": "Red blood cells", "correct": "false" },
+            { "text": "Platelets", "correct": "false" },
+            { "text": "White blood cells", "correct": "true" },
+            { "text": "Plasma cells", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the basic unit of life?",
+        "options": [
+            { "text": "Atom", "correct": "false" },
+            { "text": "Cell", "correct": "true" },
+            { "text": "Tissue", "correct": "false" },
+            { "text": "Organ", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the primary function of roots in plants?",
+        "options": [
+            { "text": "Photosynthesis", "correct": "false" },
+            { "text": "Reproduction", "correct": "false" },
+            { "text": "Absorption of water and nutrients", "correct": "true" },
+            { "text": "Support for flowers", "correct": "false" }
+        ]
+    }    
+]

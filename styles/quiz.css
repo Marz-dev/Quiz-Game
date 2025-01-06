@@ -1,0 +1,134 @@
+:root{
+    /* Primary, secondary, etc color sets*/
+    --priCol: #240750;
+    --secCol: #344C64;
+    --terCol: #0a21a3;
+    --forCol: #57A6A1;
+    --queCol: #0469a3;
+    --que2Col: #ffffffdc;
+    --que3Col: #4100a3de;
+    /* shades */
+    --priShade: rgba(0, 0, 0, 0.05);
+    --secShade:  rgba(0, 0, 0, 0.1);
+    --terShade:  rgba(0, 0, 0, 0.2);
+
+    /*Text Colors */
+    --textCol: rgb(255, 255, 255);
+}
+
+::selection{
+    display: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(var(--terCol), var(--queCol), var(--terCol));
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+    background-color: var(--priCol);
+    box-shadow: 0px 0px 10px black;
+    color: #fff;
+}
+
+main{
+    max-width: 1200px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.question{
+    padding: 20px;
+    margin: 8px;
+    background-color: var(--que3Col);
+    box-shadow: 0px 0px 10px white;
+    border-top: 2px solid var(--que2Col);
+    border-bottom: 2px solid var(--que2Col);
+    border-radius: 10px;
+    color: var(--textCol);
+}
+
+.options{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    padding: 20px;
+    color: var(--textCol);
+}
+
+.option {
+    margin: 5px;
+    border: 2px solid var(--que2Col);
+    border-bottom-left-radius: 25% 100%;
+    border-bottom-right-radius: 25% 100%;
+    border-top-left-radius: 25% 100%;
+    border-top-right-radius: 25% 100%;
+    background-color: var(--queCol);
+    box-shadow: 0px 0px 10px rgba(0, 162, 255, 0.616);
+}
+
+.option h3{
+    font-size: 1.5em;
+    margin: 10px 0px;
+    color: var(--textCol);
+}
+
+.option:hover{
+    background-color: var(--priCol);
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.nextBtn {
+    padding: 12px 32px;
+    display: none;
+    border-radius: 10px;
+    background-color: var(--forCol);
+    box-shadow: 0px 0px 10px aliceblue;
+    border: 1px solid var(--que2Col);
+    font-size: 2em;
+    font-weight: bolder;
+}
+.nextBtn:hover{
+    background-color: var(--priCol);
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.timer{
+    padding: 20px;
+    margin: auto;
+    width: min-content;
+    height: min-content;
+    background-color: #daa7e73d;
+    border: 2px dashed rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 50%;
+}
+.timer h1{
+    font-size: 1.5em;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+.totalQues{
+    position: absolute;
+    color: #fff;
+    font-weight: bolder;
+    right: 2%;
+}
+@media screen and (max-width: 768px){
+    .options {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

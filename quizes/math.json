@@ -1,0 +1,47 @@
+[
+    {
+        "Question": "What's 2 + 2 equal to?",
+        "options": [
+            { "text": "4", "correct" : "true"},
+            { "text": "22", "correct" : "false"},
+            { "text": "I'd like to call an Adult", "correct" : "false"},
+            { "text": "What about, no?", "correct" : "false"}
+        ]
+    },
+    {
+        "Question": "What's 9 + 10 ?",
+        "options": [
+            { "text": "19", "correct" : "true"},
+            { "text": "21", "correct" : "false"},
+            { "text": "Urmm... wattesigma?", "correct" : "false"},
+            { "text": "Galvanized sqaure steel", "correct" : "false"}
+        ]
+    },
+    {
+        "Question": "Evaluate: (12 + i14)(12 - i14) in the form of (a + ib)",
+        "options": [
+            { "text": "340 + 0i", "correct" : "true"},
+            { "text": "-52 + 10i", "correct" : "false"},
+            { "text": "-52 + 0i", "correct" : "false"},
+            { "text": "340", "correct" : "false"}
+        ]
+    },
+    {
+        "Question": "If equals sets mean that two nonempty sets have exactly the same elements. Then are there more equal or unequal sets?",
+        "options": [
+            { "text": "more equal sets than unequal", "correct" : "false"},
+            { "text": "more unequal sets than equal", "correct" : "true"},
+            { "text": "both are same", "correct" : "false"},
+            { "text": "I'll ponder about it later", "correct" : "false"}
+        ]
+    },
+    {
+        "Question": "If ramesh has 1500rs and he shares 10% of the resulting money after he has shared with each of his 4 friends eachtime. How much will he have in the end?",
+        "options": [
+            { "text": "1350rs", "correct" : "false"},
+            { "text": "150.0rs", "correct" : "false"},
+            { "text": "984.15rs", "correct" : "true"},
+            { "text": "698.69rs", "correct" : "false"}
+        ]
+    }
+]

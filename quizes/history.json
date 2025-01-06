@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "Who was the first President of the United States?",
+        "options": [
+            { "text": "Abraham Lincoln", "correct": "false" },
+            { "text": "George Washington", "correct": "true" },
+            { "text": "Thomas Jefferson", "correct": "false" },
+            { "text": "John Adams", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "In which year did World War II begin?",
+        "options": [
+            { "text": "1914", "correct": "false" },
+            { "text": "1939", "correct": "true" },
+            { "text": "1945", "correct": "false" },
+            { "text": "1929", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Who was known as the Iron Lady?",
+        "options": [
+            { "text": "Queen Victoria", "correct": "false" },
+            { "text": "Margaret Thatcher", "correct": "true" },
+            { "text": "Indira Gandhi", "correct": "false" },
+            { "text": "Golda Meir", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Which civilization built the pyramids?",
+        "options": [
+            { "text": "Greek", "correct": "false" },
+            { "text": "Roman", "correct": "false" },
+            { "text": "Egyptian", "correct": "true" },
+            { "text": "Mesopotamian", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+        "options": [
+            { "text": "Santa Maria", "correct": "false" },
+            { "text": "Mayflower", "correct": "true" },
+            { "text": "Endeavour", "correct": "false" },
+            { "text": "Victoria", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Who was the leader of the Soviet Union during World War II?",
+        "options": [
+            { "text": "Joseph Stalin", "correct": "true" },
+            { "text": "Vladimir Lenin", "correct": "false" },
+            { "text": "Nikita Khrushchev", "correct": "false" },
+            { "text": "Leon Trotsky", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What was the primary cause of the American Civil War?",
+        "options": [
+            { "text": "Taxation without representation", "correct": "false" },
+            { "text": "Disputes over slavery", "correct": "true" },
+            { "text": "Territorial expansion", "correct": "false" },
+            { "text": "Economic policies", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Who wrote the Declaration of Independence?",
+        "options": [
+            { "text": "George Washington", "correct": "false" },
+            { "text": "Thomas Jefferson", "correct": "true" },
+            { "text": "Benjamin Franklin", "correct": "false" },
+            { "text": "James Madison", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What was the name of the wall that separated East and West Berlin during the Cold War?",
+        "options": [
+            { "text": "Great Wall of Berlin", "correct": "false" },
+            { "text": "Berlin Barrier", "correct": "false" },
+            { "text": "Berlin Wall", "correct": "true" },
+            { "text": "Iron Curtain", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Who discovered America in 1492?",
+        "options": [
+            { "text": "Christopher Columbus", "correct": "true" },
+            { "text": "Vasco da Gama", "correct": "false" },
+            { "text": "Ferdinand Magellan", "correct": "false" },
+            { "text": "Amerigo Vespucci", "correct": "false" }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz game -Game Page</title>
+    <link rel="stylesheet" href="../styles/quiz.css">
+</head>
+<body>
+    <header>
+        <div class="category">
+            <h1 id="title_Category">Category of this quiz</h1>
+        </div>
+    </header>
+
+    <main>
+        <h1 class="totalQues">100/100</h1>
+        <div class="timer">
+            <h1>30</h1>
+        </div>
+        <div class="question">
+            <h2>Question 1</h2>
+        </div>
+        <div class="options">
+            <div class="option" onclick="opt(1)">
+                <h3>Option 1</h3>
+            </div>
+            <div class="option"  onclick="opt(2)">
+                <h3>Option 2</h3>
+            </div>
+            <div class="option"  onclick="opt(3)">
+                <h3>Option 3</h3>
+            </div>
+            <div class="option"  onclick="opt(4)">
+                <h3>Option 4</h3>
+            </div>
+        </div>
+        <button class="nextBtn"  onclick="nextQuestion()">Next</button>
+    </main>
+    <script src="../js/quiz.js"></script>
+</body >
+</html>

@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "What is the unit of force in the International System of Units (SI)?",
+        "options": [
+            { "text": "Pascal", "correct": "false" },
+            { "text": "Newton", "correct": "true" },
+            { "text": "Joule", "correct": "false" },
+            { "text": "Watt", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the speed of light in a vacuum?",
+        "options": [
+            { "text": "3 × 10^8 m/s", "correct": "true" },
+            { "text": "3 × 10^6 m/s", "correct": "false" },
+            { "text": "3 × 10^5 m/s", "correct": "false" },
+            { "text": "3 × 10^4 m/s", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the term for the resistance of an object to a change in its motion?",
+        "options": [
+            { "text": "Momentum", "correct": "false" },
+            { "text": "Inertia", "correct": "true" },
+            { "text": "Force", "correct": "false" },
+            { "text": "Friction", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Which of the following is NOT a fundamental force of nature?",
+        "options": [
+            { "text": "Gravity", "correct": "false" },
+            { "text": "Electromagnetic force", "correct": "false" },
+            { "text": "Nuclear force", "correct": "true" },
+            { "text": "Strong nuclear force", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What does E = mc^2 represent?",
+        "options": [
+            { "text": "Force equation", "correct": "false" },
+            { "text": "Energy-mass equivalence", "correct": "true" },
+            { "text": "Law of conservation of momentum", "correct": "false" },
+            { "text": "Kinetic energy formula", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the gravitational acceleration on Earth?",
+        "options": [
+            { "text": "8.8 m/s^2", "correct": "false" },
+            { "text": "9.8 m/s^2", "correct": "true" },
+            { "text": "10.8 m/s^2", "correct": "false" },
+            { "text": "11.8 m/s^2", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Which type of wave is sound?",
+        "options": [
+            { "text": "Transverse", "correct": "false" },
+            { "text": "Longitudinal", "correct": "true" },
+            { "text": "Electromagnetic", "correct": "false" },
+            { "text": "Standing wave", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the SI unit of electric current?",
+        "options": [
+            { "text": "Volt", "correct": "false" },
+            { "text": "Ampere", "correct": "true" },
+            { "text": "Ohm", "correct": "false" },
+            { "text": "Coulomb", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "Who formulated the three laws of motion?",
+        "options": [
+            { "text": "Albert Einstein", "correct": "false" },
+            { "text": "Isaac Newton", "correct": "true" },
+            { "text": "Galileo Galilei", "correct": "false" },
+            { "text": "Nikola Tesla", "correct": "false" }
+        ]
+    },
+    {
+        "Question": "What is the phenomenon of bending of light around the edges of an obstacle called?",
+        "options": [
+            { "text": "Reflection", "correct": "false" },
+            { "text": "Refraction", "correct": "false" },
+            { "text": "Diffraction", "correct": "true" },
+            { "text": "Interference", "correct": "false" }
+        ]
+    }
+]

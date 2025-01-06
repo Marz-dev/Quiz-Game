@@ -1,0 +1,26 @@
+[
+    {
+        "link": "biology",
+        "img": "biology.png",
+        "alt": "It Bio till i Logy'd",
+        "name": "Biology Quiz"
+    },
+    {
+        "link": "math",
+        "img": "math.png",
+        "alt": "The Math Quiz",
+        "name": "The Math Quiz"
+    },
+    {
+        "link": "physics",
+        "img": "physics.png",
+        "alt": "Its Physics Bro",
+        "name": "Physics Quiz"
+    },
+    {
+        "link": "History",
+        "img": "history.png",
+        "alt": "There's Nothing we can do",
+        "name": "History Quiz"
+    }
+]
