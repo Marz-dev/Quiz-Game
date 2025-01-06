@@ -1,25 +1,25 @@
 [
     {
         "link": "biology",
-        "img": "biology.png",
+        "img": "biology.jpg",
         "alt": "It Bio till i Logy'd",
         "name": "Biology Quiz"
     },
     {
         "link": "math",
-        "img": "math.png",
+        "img": "math.jpg",
         "alt": "The Math Quiz",
         "name": "The Math Quiz"
     },
     {
         "link": "physics",
-        "img": "physics.png",
+        "img": "physics.jpg",
         "alt": "Its Physics Bro",
         "name": "Physics Quiz"
     },
     {
         "link": "History",
-        "img": "history.png",
+        "img": "history.jpg",
         "alt": "There's Nothing we can do",
         "name": "History Quiz"
     }
